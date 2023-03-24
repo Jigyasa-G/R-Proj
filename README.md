@@ -2,3 +2,4 @@
 Mini Project by
 JIGYASA GUPTA
 (1DS20CS092)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jigyasa-G&layout=compact&theme=vision-friendly-dark)](https://github.com/Jigyasa-G)
